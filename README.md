@@ -27,7 +27,7 @@ for using this functionality the function is `=insta(cell_range)`
 **Rohit Jain**
 
 - [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Bookmark%20Store "Hi!")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Docs%20Projects "Hi!")
 - [Website](https://kingtechnologies.in "Welcome")
 
 ## 🤝 Support

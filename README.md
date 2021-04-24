@@ -1,6 +1,6 @@
 <h1 align="center">Docs Projects</h1>
 
-## <p align="center">Repo for storying project that are for Documents</p>
+<p align="center">Repo for storying project that are for Documents</p>
 
 ## Links
 

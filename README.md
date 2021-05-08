@@ -1,37 +1,92 @@
-<h1 align="center">Docs Projects</h1>
+<p align="center">
+  <a href="https://github.com/Rohit19060/Docs-Projects" title="Docs Projects">
+    <img src="https://kingtechnologies.in/assets/images/logo.png" width="80px" alt="Docs Projects" />
+  </a>
+</p>
+<h1 align="center">🌟 Docs Projects 🌟</h1>
+<p align="center">Repo for storing project that are for Documents</p>
 
-<p align="center">Repo for storying project that are for Documents</p>
+<p align="center">
+<a href="https://github.com/Rohit19060/Docs-Projects/blob/master/LICENSE" target="_blank" title="License">
+<img src="https://img.shields.io/github/license/Rohit19060/Docs-Projects?label=License&logo=Github&style=flat-square" alt="Docs Projects License" />
+</a>
+<a href="https://github.com/Rohit19060/Docs-Projects/fork" target="_blank" title="Forks">
+<img src="https://img.shields.io/github/forks/Rohit19060/Docs-Projects?label=Forks&logo=Github&style=flat-square" alt="Docs Projects Forks"/>
+</a>
+<a href="https://github.com/Rohit19060/Docs-Projects/stargazers" target="_blank" title="Stars">
+<img src="https://img.shields.io/github/stars/Rohit19060/Docs-Projects?label=Stars&logo=Github&style=flat-square" alt="Docs Projects Stars"/>
+</a>
+<a href="https://github.com/Rohit19060/Docs-Projects/issues" target="_blank" title="Issues">
+<img src="https://img.shields.io/github/issues/Rohit19060/Docs-Projects?label=Issues&logo=Github&style=flat-square" alt="Docs Projects Issues"/>
+</a>
+<a href="https://github.com/Rohit19060/Docs-Projects/pulls" target="_blank" title="Pull Requests">
+<img src="https://img.shields.io/github/issues-pr/Rohit19060/Docs-Projects?label=Pull%20Requests&logo=Github&style=flat-square" alt="Docs Projects Pull Requests"/>
+</a>
+<a href="https://github.com/Rohit19060/Docs-Projects" target="_blank" title="Repo Size">
+<img src="https://img.shields.io/github/repo-size/Rohit19060/Docs-Projects?label=Repo%20Size&logo=Github&style=flat-square" alt="Docs Projects Repo Size"/>
+</a>
+<a href="https://discord.gg/2wpHNSjwm2" target="_blank" title="Join Community">
+<img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Docs Projects"/>
+</a>
+</p>
 
-## Links
+<h2 align="center">🌐 Links 🌐</h2>
+<p align="center">
+    <a href="https://github.com/Rohit19060/Docs-Projects" title="Docs Projects Repo">📂 Repo</a>
+    ·
+    <a href="https://github.com/Rohit19060/Docs-Projects/issues/new/choose" title="🐛Report Bug/🎊Request Feature">🚀 Got Issue</a>
+</p>
 
-- [Repo](https://github.com/Rohit19060/Docs-Projects "Docs Projects Repo")
+## 🛠️ Installation Steps
 
-## What's Inside
+1. Clone the repository
 
-### `Random Macro`
+```Bash
+git clone https://github.com/Rohit19060/Docs-Projects.git
+```
 
-A Macro-enable file that will generate 30 random hashtags from selected number.
-for using this functionality the function is `=insta(cell_range)`
+2. Change the working directory
 
-## Built With
+```Bash
+cd Docs-Projects
+```
 
-- Visual Basic
-- MS Excel
+**🎇 You are Ready to Go!**
 
-## Future Updates
+## 👷 Built with
+
+- [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/ "Visual Basic"): For Writing Macros
+
+- [MS Excel](https://www.microsoft.com/en-in/microsoft-365/excel "MS Excel"): Main File
+
+## 📂 Directory Structure
+
+> [`Random Macro.xlsm`](https://github.com/Rohit19060/Docs-Projects/blob/main/Random%20Macro.xlsm "Random Macro"): A Macro-enable file that will generate 30 random hashtags from the selected number. For using this functionality the function is `=insta(cell_range)`
+
+## 🎊 Future Updates
 
 - [ ] More Docs Projects
 
-## Author
+## 🧑🏻 Author
 
 **Rohit Jain**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Docs%20Projects "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- 🌌 [Profile](https://github.com/rohit19060 "Rohit Jain")
 
-## 🤝 Support
+- 🏮 [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Docs%20Projects "Hi!")
 
-Contributions, issues and feature requests are welcome!
+- 🦁 [Website](https://kingtechnologies.in "Welcome")
 
-Give a ⭐️ if you like this project!
+<h2 align="center">🤝 Support</h2>
+
+<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow">GitHub flow</a>), 🔥 issues and 🥮 feature requests are most welcome!</h3>
+
+<h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
+<h3 align="center">💰 Donations Links</h3>
+<p align="center">
+<a href="https://www.paypal.me/kingrohitJ" target="_blank" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/>
+<a href="https://www.buymeacoffee.com/rohitjain" target="Buy me a Coffee/" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/>
+<a href="https://ko-fi.com/rohitjain" target="_blank" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
+</p>
+
+<p align="center">Made with Excel & ❤️ in India</p>
